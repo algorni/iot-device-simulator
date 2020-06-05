@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MessageSample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "IOTHUB_DEVICE_CONN_STRING": "HostName=asa-iot-tag-query-iot-hub.azure-devices.net;DeviceId=my-simulated-device;SharedAccessKey=HDHb0YakXSJz661VxR1gLqbbVOGNfGG86vTReSybiU8="
+      }
+    }
+  }
+}
